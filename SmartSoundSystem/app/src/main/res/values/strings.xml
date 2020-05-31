@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartSoundSystem</string>
+    <string name="btn_vol_up">VOL +</string>
+    <string name="btn_prev">PREVIOUS</string>
+    <string name="btn_next">NEXT</string>
+    <string name="btn_vol_down">VOL -</string>
+    <string name="btn_on_off">ON/OFF</string>
+    <string name="btn_play">PAUSE/PLAY</string>
+    <string name="btn_right">Right</string>
+    <string name="btn_left">LEFT</string>
+</resources>

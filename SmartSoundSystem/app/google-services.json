@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "419425684855",
+    "firebase_url": "https://smart-sound-system.firebaseio.com",
+    "project_id": "smart-sound-system",
+    "storage_bucket": "smart-sound-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419425684855:android:2da388bd1590797f196572",
+        "android_client_info": {
+          "package_name": "com.example.smartsoundsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419425684855-c0l3pq53vs590tnbd9sall15vcgksaqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartsoundsystem",
+            "certificate_hash": "84a9aaa4d4cda56dbfdaebd581c127a4e024c2e3"
+          }
+        },
+        {
+          "client_id": "419425684855-0mmdehs4bpegkfuam3jfjv58ahdrram2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV2AAiOLxLej9qwmdhGxyIi0GmpvAjO-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419425684855-0mmdehs4bpegkfuam3jfjv58ahdrram2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
